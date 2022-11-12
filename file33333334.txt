@@ -1,4 +1,10 @@
+<<<<<<< .mine
 afdafddafdsaf
 
+=======
+afdafddafdsaf
+
+>>>>>>> .theirs
+this is online
 
 this is local
